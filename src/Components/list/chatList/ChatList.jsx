@@ -23,7 +23,7 @@ const ChatList = () => {
                 <img src="./avatar.png" alt="" />
                 <div className="text">
                     <span>Jane doe</span>
-                    <p>Hello for now!</p>
+                    <p>Hello!</p>
                 </div>
             </div>
 
@@ -31,7 +31,7 @@ const ChatList = () => {
                 <img src="./avatar.png" alt="" />
                 <div className="text">
                     <span>Jane doe</span>
-                    <p>Hello for now!</p>
+                    <p>Hello!</p>
                 </div>
             </div>
 
@@ -39,7 +39,7 @@ const ChatList = () => {
                 <img src="./avatar.png" alt="" />
                 <div className="text">
                     <span>Jane doe</span>
-                    <p>Hello for now!</p>
+                    <p>Hello!</p>
                 </div>
             </div>
             
